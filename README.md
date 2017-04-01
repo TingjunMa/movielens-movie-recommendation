@@ -10,8 +10,10 @@ Our final step is to build a web site like MoiveLens to recommend the films to t
 Here is what we have to do:
 
 1. Understand how Spark works
+
 https://spark.apache.org/docs/latest/
 2. Understand how to create Spark cluster on AWS.
+
 https://github.com/amplab/spark-ec2
 3. Start up Spark locally and finish building the service based on instruction below(Collaborative Filtering)
 https://www.codementor.io/jadianes/building-a-recommender-with-apache-spark-python-example-app-part1-du1083qbw
