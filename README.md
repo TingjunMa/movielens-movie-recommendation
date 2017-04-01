@@ -15,16 +15,18 @@ https://spark.apache.org/docs/latest/
 
 https://github.com/jadianes/spark-py-notebooks
 
-2. Understand how to create Spark cluster on AWS.
+2. Try to set up Spark cluster manually on IBM vm cluster.
+
+3. Understand how to create Spark cluster on AWS.
 
 https://github.com/amplab/spark-ec2
 
-3. Start up Spark locally and finish building the service based on instruction below(Collaborative Filtering)
+4. Start up Spark locally and finish building the service based on instruction below(Collaborative Filtering)
 
 https://www.codementor.io/jadianes/building-a-recommender-with-apache-spark-python-example-app-part1-du1083qbw
 https://www.codementor.io/jadianes/building-a-web-service-with-apache-spark-flask-example-app-part2-du1083854
 http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html
 
-4. Port the service to AWS.
-5. Build more algorithms using Spark.
-6. Build Web App.
+5. Port the service to AWS.
+6. Build more algorithms using Spark.
+7. Build Web App.
