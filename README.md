@@ -12,6 +12,7 @@ Here is what we have to do:
 1. Understand how Spark works
 
 https://spark.apache.org/docs/latest/
+https://github.com/jadianes/spark-py-notebooks
 
 2. Understand how to create Spark cluster on AWS.
 
