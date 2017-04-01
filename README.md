@@ -12,6 +12,7 @@ Here is what we have to do:
 1. Understand how Spark works
 
 https://spark.apache.org/docs/latest/
+
 2. Understand how to create Spark cluster on AWS.
 
 https://github.com/amplab/spark-ec2
