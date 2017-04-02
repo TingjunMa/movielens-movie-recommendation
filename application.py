@@ -6,12 +6,12 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-app = Flask(__name__)
+application = Flask(__name__)
 
-@app.route('/rate')
+@application.route('/rate')
 def index():
     return "test"
 
 if __name__ == '__main__':
-	app.debug = True
-	app.run()
+	application.debug = True
+	application.run()
