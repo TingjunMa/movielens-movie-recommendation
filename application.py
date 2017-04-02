@@ -19,7 +19,7 @@ def inject_x_rate_headers(response):
 
 @application.route('/rate-limited')
 @rate_limit.ratelimit(limit=10, per=60 * 1)
-def rate_limit():
+def limit():
     return "this is rate limit test"
 
 
