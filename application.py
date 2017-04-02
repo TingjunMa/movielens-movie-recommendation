@@ -11,7 +11,7 @@ def index():
     return "hello world!"
 
 @application.route('/rate')
-def index():
+def rate():
     return "test"
 
 if __name__ == '__main__':
