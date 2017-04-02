@@ -5,7 +5,7 @@ from functools import update_wrapper
 from flask import request, g
 import json
 
-pool = ConnectionPool(host='movielens-redis.y4gliv.clustercfg.use1.cache.amazonaws.com', port=6379, db=0)
+pool = ConnectionPool(host='movielens-redis.y4gliv.clustercfg.use1.cache.amazonaws.com', port=6379)
 redis = Redis(connection_pool=pool)
 
 
